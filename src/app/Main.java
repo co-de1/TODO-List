@@ -7,7 +7,7 @@ import service.TaskService;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Menu {
+public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final TaskService service = new TaskService();
 
